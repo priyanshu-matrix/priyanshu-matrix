@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm [Priyanshu Kumar Pandey]
+# Hi there! 👋 I'm Priyanshu Kumar Pandey
 
-Welcome to my GitHub profile! I'm a developer with a diverse skill set in backend and frontend technologies. I enjoy learning new things, building projects, and contributing to open-source communities.
+Welcome to my GitHub profile! I'm a learning developer with a diverse skill set in backend and frontend technologies. I enjoy learning new things, building projects, and contributing to open-source communities.
 
 ### 🛠️ Languages & Technologies
 - **Languages**:
@@ -29,7 +29,7 @@ Some of my ongoing and past projects:
 - **MongoDB Projects**: Database management with MongoDB
 
 ### 💻 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect
 - Instagram: [p.r.i.y.x.n.s.h.u](#)
