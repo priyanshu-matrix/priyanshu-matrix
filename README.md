@@ -23,7 +23,6 @@ Welcome to my GitHub profile! I'm a learning developer with a diverse skill set 
 - Deepening my understanding of full-stack development
 
 ### 📂 Future projects
-Some of my ongoing and past projects:
 - **Web Development Projects**: Building basic websites with responsive design using HTML, CSS, and JavaScript
 - **API Development**: Creating simple REST APIs using Node.js and Python for web applications
 - **MongoDB Projects**: Database management with MongoDB
@@ -32,7 +31,7 @@ Some of my ongoing and past projects:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect
-- Instagram: [p.r.i.y.x.n.s.h.u](#)
+- Instagram: [p.r.i.y.x.n.s.h.u](#https://www.instagram.com/p.r.i.y.x.n.s.h.u/)
 
 
 <!--
