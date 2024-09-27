@@ -32,7 +32,7 @@ Some of my ongoing and past projects:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect
-- Instagram: [p.r.iy.x.n.s.h.u](#)
+- Instagram: [p.r.i.y.x.n.s.h.u](#)
 
 
 <!--
