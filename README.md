@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a learning developer with a diverse skill set 
 - **MongoDB Projects**: Database management with MongoDB
 
 ### 📫 Let's Connect
-- Instagram: [https://www.instagram.com/p.r.i.y.x.n.s.h.u/](#)
+- Instagram: [p.r.i.y.x.n.s.h.u](https://www.instagram.com/p.r.i.y.x.n.s.h.u/)
 
 
 <!--
