@@ -27,8 +27,7 @@ Welcome to my GitHub profile! I'm a learning developer with a diverse skill set 
 - **API Development**: Creating simple REST APIs using Node.js and Python for web applications
 - **MongoDB Projects**: Database management with MongoDB
 
-### 📫 Let's Connect
-- Instagram: [p.r.i.y.x.n.s.h.u](https://www.instagram.com/p.r.i.y.x.n.s.h.u/)
+
 
 
 <!--
