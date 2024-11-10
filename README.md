@@ -2,6 +2,12 @@
 
 Welcome to my GitHub profile! I'm a learning developer with a diverse skill set in backend and frontend technologies. I enjoy learning new things, building projects, and contributing to open-source communities.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-matrix&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-matrix" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu-matrix" alt="priyanshu-matrix" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 ### 🛠️ Languages & Technologies
 - **Languages**:
   - C++ (Intermediate understanding, with a focus on algorithms and data structures)
