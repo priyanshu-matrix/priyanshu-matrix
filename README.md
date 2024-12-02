@@ -68,7 +68,6 @@ Welcome to my GitHub profile! I'm a learning developer with a diverse skill set 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-matrix&show_icons=true&locale=en" alt="priyanshu-matrix" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-matrix&" alt="priyanshu-matrix" /></p>
 
 
 <!--
